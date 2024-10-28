@@ -31,7 +31,7 @@ Ovaj skup podataka sadrži informacije o serijama i njihovim epizodama. Uključu
   - `glumci`: Imena glavnih glumaca u seriji
   - `mreza`: Mreža na kojoj se serija emitira
 - **Ključne riječi**: serije, epizode, televizija, zabava, analiza
-- **Datum objave**: 27.10.2024
+- **Datum objave**: 28.10.2024
 - **Frekvencija ažuriranja**: Po potrebi
 - **Tema**: Televizija, zabava
 - **Kontakt**: martin.saincevic@fer.unizg.hr
